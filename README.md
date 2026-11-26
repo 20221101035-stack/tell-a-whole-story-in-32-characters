@@ -1,3 +1,7 @@
+[![make.fun · u-xvader-tell-a-whole-story-in-32-characters-f86dd978](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
+[![rank](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/20221101035-stack/tell-a-whole-story-in-32-characters/rank.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
+[![reward](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/20221101035-stack/tell-a-whole-story-in-32-characters/reward.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
+
 # Tell a Whole Story in 32 Characters
 
 Competition: `u-xvader-tell-a-whole-story-in-32-characters-f86dd978`
@@ -5,7 +9,6 @@ Competition: `u-xvader-tell-a-whole-story-in-32-characters-f86dd978`
 Deadline: 2026-11-26T17:25:00Z (2026-11-27 01:25 CST).
 
 ## Entry
-
 ```
 Ex took the dog, I kept WiFi
 ```
